@@ -1,6 +1,6 @@
 # Mac Development Ansible Playbook
 
-[![Build Status](https://travis-ci.org/geerlingguy/mac-dev-playbook.svg?branch=master)](https://travis-ci.org/geerlingguy/mac-dev-playbook)
+[![Build Status](https://travis-ci.org/SuzyWu2014/mac-ansible.svg?branch=master)](https://travis-ci.org/SuzyWu2014/mac-ansible)
 
 This playbook installs and configures most of the software I use on my Mac for web and software development. Some things in macOS are slightly difficult to automate, so I still have some manual installation steps, but at least it's all documented here.
 
