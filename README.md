@@ -33,7 +33,7 @@ You can override any of the defaults configured in `default.config.yml` by creat
       - cowsay
       - git
       - go
-    
+
     mas_installed_app_ids:
       - 443987910 # 1Password
       - 498486288 # Quick Resizer
