@@ -43,6 +43,7 @@ homebrew_cask_apps:
   - sublime-text
   - vagrant
   - virtualbox
+  - iTerm2
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_app_ids: []
