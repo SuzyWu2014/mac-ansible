@@ -1,4 +1,4 @@
-# Mac Development Ansible Playbook
+## Mac Development Ansible Playbook
 
 [![Build Status](https://travis-ci.org/SuzyWu2014/mac-ansible.svg?branch=master)](https://travis-ci.org/SuzyWu2014/mac-ansible)
 
